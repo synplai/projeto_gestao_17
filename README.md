@@ -7,3 +7,7 @@
 
 1. Ponto 1.1
 2. Ponto 1.2
+
+```python
+print("Olá, mundo!")
+```
