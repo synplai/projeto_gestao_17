@@ -10,7 +10,7 @@
 - Instruções de instalação/configuração do ambiente/implementação
 - Instruções de uso (como fazer para iniciar o projeto (rodar o código))
 - Versão atual = 1.5.3.0
--   Pontos dessa versão
+    - Pontos dessa versão
 - Direitos do software
 
 
