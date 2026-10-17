@@ -1,13 +1,14 @@
 # PROJETO GESTÃO 17
 
-## Autor do projeto: Lucas Gomes
+## Estrutura Básica do README.md
 
-- ponto 1
-- ponto 2
-
-1. Ponto 1.1
-2. Ponto 1.2
-
-```python
-print("Olá, mundo!")
-```
+- Titulo
+- Autor
+- Objetivo (Texto explicando o que o projeto faz)
+- Estrutura de Pasta
+- Requisitos do sistema
+- Instruções de instalação/configuração do ambiente/implementação
+- Instruções de uso (como fazer para iniciar o projeto (rodar o código))
+- Versão atual = 1.5.3.0
+-   Pontos dessa versão
+- Direitos do software
