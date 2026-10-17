@@ -1,3 +1,3 @@
-# projeto_gestao_17
+# PROJETO GESTÃO 17
 
-Autor do projeto: Lucas Gomes
+## Autor do projeto: Lucas Gomes
