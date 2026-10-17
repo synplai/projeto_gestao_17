@@ -12,3 +12,6 @@
 - Versão atual = 1.5.3.0
 -   Pontos dessa versão
 - Direitos do software
+
+
+DOCUMENTO EDITADO
